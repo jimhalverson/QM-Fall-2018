@@ -8,7 +8,7 @@ E-mail: j.halverson@northeastern.edu
 
 Phone: 617-373-2957
 
-Office Hours: MW 1:00-2:30
+Office Hours: MW 1:00-2:30, Dana 226
 
 Grader: Jiahua Tian, tian.jiah@husky.neu.edu
 
