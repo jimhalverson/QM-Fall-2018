@@ -8,7 +8,7 @@ I will post the problem set here and answer questions during office hours.
 
 - 1.3 a-b), 1.6, 1.7, 1.14, and 2.1 in Townsend.
 
-## Homework 1
+## Homework 2
 *Due:* October 3
 
 - Read section 2.6
