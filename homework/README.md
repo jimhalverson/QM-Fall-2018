@@ -15,3 +15,8 @@ I will post the problem set here and answer questions during office hours.
 - Understand eqn 2.106.
 - Problems 2.2, 2.3, 2.7, 2.8 (and check that the norm <Psi|Psi>=1), 2.9, and 2.10 (and answer based on your computation of Jx in the z-basis whether or not |+z> and |-z> are eigenstates).
 - Problems 3.1, 3.3.
+
+## Homework 3
+*Due:* October 10
+- 3.5, 3.7, 3.8, 3.17, 3.26, 3.27.
+
