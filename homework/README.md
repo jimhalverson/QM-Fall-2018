@@ -17,6 +17,9 @@ I will post the problem set here and answer questions during office hours.
 - Problems 3.1, 3.3.
 
 ## Homework 3
-*Due:* October 10
+*Due:* October 15
 - 3.5, 3.7, 3.8, 3.17, 3.26, 3.27.
 
+## Homework 4
+*Due:* October 17
+- 4.1, 4.3, 4.4, 4.12, 4.15.
