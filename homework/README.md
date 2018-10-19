@@ -23,3 +23,7 @@ I will post the problem set here and answer questions during office hours.
 ## Homework 4
 *Due:* October 17
 - 4.1, 4.3, 4.4, 4.12, 4.15.
+
+## Homework 5
+*Due:* October 29
+- 5.1, 5.5, 5.7, 6.1, 6.3, 6.5, 6.13
