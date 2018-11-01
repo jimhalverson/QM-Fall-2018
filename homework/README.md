@@ -27,3 +27,15 @@ I will post the problem set here and answer questions during office hours.
 ## Homework 5
 *Due:* October 29
 - 5.1, 5.5, 5.7, 6.1, 6.3, 6.5, 6.13
+
+## Homework 6
+*Due:* November 14
+- 7.1, 7.7, 7.11, 7.17, 7.22.
+
+## Homework 7
+*Due:* November 28
+- 10.2, 10.5, 10.17, 11.1, 11.10, and 11.11.
+
+## Homework 8
+*Due:* December 5
+- TBA
