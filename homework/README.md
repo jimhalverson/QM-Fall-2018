@@ -34,8 +34,8 @@ I will post the problem set here and answer questions during office hours.
 
 ## Homework 7
 *Due:* November 28
-- 10.2, 10.5, 10.17, 11.1, 11.10, and 11.11.
+- 10.2, 10.5, 10.17.
 
 ## Homework 8
 *Due:* December 5
-- TBA
+- 11.1, 11.10, 11.11, perhaps more.
