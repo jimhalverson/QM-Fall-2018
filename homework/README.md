@@ -38,4 +38,4 @@ I will post the problem set here and answer questions during office hours.
 
 ## Homework 8
 *Due:* December 5
-- 11.1, 11.10, 11.11, perhaps more.
+- 11.1, 11.10, 11.11, 11.16, 11.17.
